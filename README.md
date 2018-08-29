@@ -24,4 +24,7 @@ https://services.github.com/on-demand/ <br />
 
 
 
+### Powershell git Commit
+![PowershellgitCommit](https://github.com/shahedbd/SQLBestPractices/blob/master/CommonSQLScripts/PowershellGitCommit.png)
+
 
